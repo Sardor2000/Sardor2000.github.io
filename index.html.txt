@@ -1,0 +1,10 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+<h1>Sardorbek Shavkatbekov</h1>
+<p>u1810070</p>
+<p>Socie 18-23</p>
+<p>u1810070 inha.mail.uz</p>
+<img src="volk_morda_pyatna_fon_92783_1920x1080.jpg" alt="volk.jpg" width="104" height="142">	
+</body>
+</html
